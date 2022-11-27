@@ -1887,6 +1887,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a11b45b00ee44b1a89b2f2da15d9f40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scoreText: {fileID: 1476771196}
+  scoreMultiplier: 5
 --- !u!1 &1501635907
 GameObject:
   m_ObjectHideFlags: 0
