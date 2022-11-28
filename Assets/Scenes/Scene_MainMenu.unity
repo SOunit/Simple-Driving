@@ -921,3 +921,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   highScoreText: {fileID: 674979858}
+  maxEnergy: 5
+  energyText: {fileID: 369209393}
+  energyRechargeDuration: 1
