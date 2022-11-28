@@ -925,6 +925,7 @@ MonoBehaviour:
   highScoreText: {fileID: 674979858}
   energyText: {fileID: 369209393}
   androidNotificationHandler: {fileID: 1698707370}
+  iosNotificationHandler: {fileID: 1698707371}
   maxEnergy: 5
   energyRechargeDuration: 1
 --- !u!114 &1698707370

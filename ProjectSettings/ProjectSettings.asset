@@ -157,6 +157,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.DefaultCompany.SimpleDriving
     Standalone: com.DefaultCompany.Simple-Driving
+    iPhone: com.SOUnit.Simple-Driving
   buildNumber:
     Standalone: 0
     iPhone: 0
